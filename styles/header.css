@@ -98,8 +98,9 @@
         font-family: "Inter", sans-serif;
         font-size: 20px;
         text-align: left;
-        background-color: transparent;
+        background-color: red;
         border: none;
+        border-radius: 6px;
     }
     
     .second-section-img {

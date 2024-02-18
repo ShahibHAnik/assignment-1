@@ -1,13 +1,15 @@
-.header-bg-pic{
-    background-image: linear-gradient(180.00deg,rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("../images/Banner\ Image.png");
+.header {
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url("../images/Banner\ Image.png");
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
     border-radius: 16px;
     align-items: center;
-    margin: 50px auto; 
-
+    margin: 50px auto;
+    font-family: "Merriweather", serif;
 }
+
+
 .header-titles{
     padding: 175px 345px;
 }
